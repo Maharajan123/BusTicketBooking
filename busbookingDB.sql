@@ -213,7 +213,16 @@ INSERT INTO `bus_details` (`bus_name`, `bording_point`, `droping_point`, `timing
 ('Praveen Travels', 'Coimbatore', 'Ooty', '3:30 PM', '600'),
 ('Praveen Travels', 'Salem', 'Yercaud', '5:00 PM', '110'),
 ('Praveen Travels', 'Kanyakumari', 'Trivandrum', '7:00 PM', '140'),
-('Praveen Travels', 'Devakottai', 'Coimbatore', '9:10 PM', '240');
+('Praveen Travels', 'Devakottai', 'Coimbatore', '9:10 PM', '240'),
+('MR Travels', 'Devakottai', 'Coimbatore', '9:10 PM', '240'),
+('MR Travels', 'Chennai', 'Mahabalipuram', '8:00 AM', '500'),
+('MR Travels', 'Thanjavur', 'Kumbakonam', '9:30 AM', '100'),
+('MR Travels', 'Madurai', 'Rameswaram', '11:00 AM', '150'),
+('MR Travels', 'Tiruchirappalli', 'Srirangam', '1:00 PM', ''),
+('MR Travels', 'Coimbatore', 'Ooty', '3:30 PM', '600'),
+('MR Travels', 'Salem', 'Yercaud', '5:00 PM', '110'),
+('MR Travels', 'Kanyakumari', 'Trivandrum', '7:00 PM', '140'),
+('MR Travels', 'Devakottai', 'Coimbatore', '9:10 PM', '240');
 
 -- --------------------------------------------------------
 
